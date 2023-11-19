@@ -1,0 +1,26 @@
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="7" height="12" fill="#333232"/>
+<g id="Design Section">
+<path d="M-692 -194C-692 -195.105 -691.105 -196 -690 -196H3386C3387.1 -196 3388 -195.105 3388 -194V1732C3388 1733.1 3387.1 1734 3386 1734H-690C-691.105 1734 -692 1733.1 -692 1732V-194Z" fill="#404040"/>
+<path d="M-690 -195H3386V-197H-690V-195ZM3387 -194V1732H3389V-194H3387ZM3386 1733H-690V1735H3386V1733ZM-691 1732V-194H-693V1732H-691ZM-690 1733C-690.552 1733 -691 1732.55 -691 1732H-693C-693 1733.66 -691.657 1735 -690 1735V1733ZM3387 1732C3387 1732.55 3386.55 1733 3386 1733V1735C3387.66 1735 3389 1733.66 3389 1732H3387ZM3386 -195C3386.55 -195 3387 -194.552 3387 -194H3389C3389 -195.657 3387.66 -197 3386 -197V-195ZM-690 -197C-691.657 -197 -693 -195.657 -693 -194H-691C-691 -194.552 -690.552 -195 -690 -195V-197Z" fill="white" fill-opacity="0.1"/>
+<g id="Introduction" clip-path="url(#clip0_2212_421)">
+<rect width="1920" height="1730" transform="translate(-592 -96)" fill="white"/>
+<g id="Frame 1171275967">
+<g id="Frame 3">
+<g id="Frame 1171275966">
+<g id="Title">
+<g id="Frame 1171275965">
+<path id="Vector 6" d="M0.5 1L5.5 6L0.5 11" stroke="#7D828E"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2212_421">
+<rect width="1920" height="1730" fill="white" transform="translate(-592 -96)"/>
+</clipPath>
+</defs>
+</svg>
