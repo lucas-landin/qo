@@ -33,11 +33,13 @@ function SideBar() {
         </li>
 
         <li className=" p-[8px] ">
-          <a className="flex justify-between cursor-pointer ">
+          <a className="flex justify-between cursor-pointer "
+           onClick={toggleGetStarted}
+          >
             Docs Theme
             <div
               className={`p-1 hover:bg-listf ${rotateArrow ? "rotate-90" : ""}`}
-              onClick={toggleGetStarted}
+              
             >
               <Image src={arrowRight} width={8} height={5} alt="Docs Theme" />
             </div>
