@@ -17,12 +17,10 @@ module.exports = {
         'primary':'#7D828E',
         'header': '#4B5563',
         'focus':'#f2f2f2',
-        'listf': '#f9f9f9'
+        'listf': '#f9f9f9',
+        'hash' : '#d0d0d0'
       },
 
-      transitionTimingFunction: {
-        'ease-in-out-0.4s': 'cubic-bezier(0.8, 0, 0.4, 2)', 
-      },
       
     },
   },

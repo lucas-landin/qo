@@ -3,6 +3,7 @@ import './globals.css'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import SideBar from './components/SideBar'
+import RightBar from './components/RightBar'
 
 
 
@@ -38,9 +39,9 @@ export default function RootLayout({ children }) {
           </div>
            </div>
           
-          <div className=" fixed z-20 top-[3.8125rem] bottom-0 right-[max(0px,calc(50%-45rem))] w-[16.5rem] py-10 overflow-y-auto hidden xl:block bg-gray-200">
+          <div className=" fixed z-20 top-[3.8125rem] bottom-0 right-[max(0px,calc(50%-45rem))] w-[16.5rem] py-10 overflow-y-auto hidden xl:block bg-white">
             {/* Conteúdo da barra lateral direita */}
-            {/* ... */}
+            <RightBar />
           </div>
         </div>
         
