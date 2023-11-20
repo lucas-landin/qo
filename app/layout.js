@@ -28,19 +28,19 @@ export default function RootLayout({ children }) {
         </div>
         <div className="flex  max-w-[97.5rem] mx-auto px-4 sm:px-6 md:px-8">
           <div className="hidden lg:block fixed z-20 inset-0 top-[3.8125rem] left-[max(0px,calc(50%-45rem))] right-auto w-[19rem] pb-10 pl-8 pr-6 overflow-y-auto bg-white">
-            {/* Conteúdo da barra lateral esquerda */}
+           
             <SideBar />
           </div>
 
            <div className='lg:pl-[22rem]'>
            <div className=" max-w-3xl mx-auto pt-10 xl:max-w-none xl:ml-0 xl:mr-[15.5rem] xl:pr-16 bg-white">
-            {/* Conteúdo principal da documentação */}
+            
             {children}
           </div>
            </div>
           
           <div className=" fixed z-20 top-[3.8125rem] bottom-0 right-[max(0px,calc(50%-45rem))] w-[16.5rem] py-10 overflow-y-auto hidden xl:block bg-white">
-            {/* Conteúdo da barra lateral direita */}
+          
             <RightBar />
           </div>
         </div>
