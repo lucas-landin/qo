@@ -26,6 +26,7 @@ function SideBar() {
        Introduction
        </Link>
        </li>
+
        <li className=" p-[8px] ">
        <a className='flex justify-between cursor-pointer '> 
        Docs Theme
@@ -40,6 +41,7 @@ function SideBar() {
         </div>
         </a>
        </li>
+       
         <div className={`  border-l border-slate-900/10 pl-3 ml-2   overflow-hidden ${showGetStarted ? 'h-auto' : 'h-0'}`}>
           <ul className='flex flex-col gap-[10px]' >
             <li onClick={() => handleLinkClick("GetStarted")} className={` p-[8px] ${activeLink === "GetStarted" ? "activeLink" : ""}`}>
